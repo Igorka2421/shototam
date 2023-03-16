@@ -44,7 +44,7 @@ public class Book {
         Book[] books = new Book[4];
 
         books[0] = new Book();
-        books[1] = new Book("Title", "King", "1999", 1999, "ahaha", 1923);
+        books[1] = new Book("Titl", "King", "1999", 1999, "ahaha", 1923);
         books[2] = Book.getInstance();
         books[3] = Book.getInstance();
 
